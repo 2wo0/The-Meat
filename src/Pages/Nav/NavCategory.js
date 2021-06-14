@@ -103,11 +103,11 @@ class NavCategory extends Component {
         </div>
         <div className="categoryRight">
           <ul className="categoryRightUl">
-            {CATEGORYRIGHT.map((el, id) => {
+            {CATEGORYRIGHT.map((data, id) => {
               return (
                 <li className="categoryRightLi" key={id}>
                   <Link to="/" className="categoryRightLink">
-                    {el.content}
+                    {data.content}
                   </Link>
                 </li>
               );
