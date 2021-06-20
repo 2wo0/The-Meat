@@ -35,9 +35,6 @@
 - django
 
 ## 👨🏻‍💻 구현한 부분
-### sticky 를 이용해 네비게이션 바 분리
- ![sticky](https://user-images.githubusercontent.com/74593343/122661168-6ac3a780-d1c2-11eb-8cd4-d49c0649581d.gif)
-
 
 ### 네비게이션 카테고리와 서브카테고리 구현
  ![Nav](https://user-images.githubusercontent.com/74593343/122661137-2e904700-d1c2-11eb-830c-91b471875e4a.gif)
